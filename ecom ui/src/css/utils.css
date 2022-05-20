@@ -1,0 +1,11 @@
+.text-center{
+    text-align: center;
+}
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: #182542;
+}
